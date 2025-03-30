@@ -13,7 +13,7 @@
     "@chakra-ui/react": "^1.8.3",
     "@emotion/react": "^11",
     "@emotion/styled": "^11.8.1",
-    "axios": "^0.27.2",
+    "axios": "^0.30.0",
     "cheerio": "^1.0.0-rc.10",
     "framer-motion": "^6.2.7",
     "next": "12.3.0",
